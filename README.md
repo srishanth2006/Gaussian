@@ -6,7 +6,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
 ## Algorithm
 1. Get the input
 2. Loop through each row and column
